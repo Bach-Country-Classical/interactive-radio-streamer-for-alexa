@@ -1,0 +1,14 @@
+{
+  "name": "interactive-radio-streamer-for-alexa",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Customizable interactive internet radio skill for Alexa devices, including Fire TV",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --check index.js"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "sample radio",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "WhatsPlayingIntent",
+          "samples": [
+            "what's playing",
+            "what is playing",
+            "what am I listening to",
+            "now playing"
+          ]
+        },
+        {
+          "name": "ComposerIntent",
+          "samples": [
+            "who is the composer",
+            "who composed this",
+            "who wrote this"
+          ]
+        },
+        {
+          "name": "PerformerIntent",
+          "samples": [
+            "who is performing",
+            "who's performing",
+            "who is playing"
+          ]
+        },
+        {
+          "name": "RefreshMetadataIntent",
+          "samples": [
+            "refresh the information",
+            "refresh the song information"
+          ]
+        },
+        {
+          "name": "PlayStreamIntent",
+          "samples": [
+            "play the radio",
+            "start playing",
+            "play the stream"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
